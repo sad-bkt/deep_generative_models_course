@@ -23,21 +23,22 @@
     
 ![polynom.png](..%2F..%2F..%2FIdeaProjects%2F2024_deep_gen_models%2FLecture_1.Into_to_generative_models%2Fimages%2Fpolynom.png)
 
-|![0.png](imgs%2F0.png)|![1.png](imgs%2F1.png)|![2.png](imgs%2F2.png)|![3.png](imgs%2F3.png)|![4.png](imgs%2F4.png)
-|---|---|---|---|---|
+| ![0.png](imgs%2F0.png) | ![1.png](imgs%2F1.png) | ![2.png](imgs%2F2.png) | ![3.png](imgs%2F3.png) | ![4.png](imgs%2F4.png) |
+|------------------------|------------------------|------------------------|------------------------|------------------------|
 
 Аддитивное сглаживание (MLE):
 
 ![img.png](imgs/img.png)
 
-|![0_mle.png](imgs%2F0_mle.png)|![1_mle.png](imgs%2F1_mle.png)|![2_mle.png](imgs%2F2_mle.png)|![3_mle.png](imgs%2F3_mle.png)|![4_mle.png](imgs%2F4_mle.png)|
-|---|---|---|---|---|
-
+| ![0_mle.png](imgs%2F0_mle.png) | ![1_mle.png](imgs%2F1_mle.png) | ![2_mle.png](imgs%2F2_mle.png) | ![3_mle.png](imgs%2F3_mle.png) | ![4_mle.png](imgs%2F4_mle.png) |
+|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|
 
 ## 2. Автоэнкодер
 
-[Описание задачи и решение c простым автоэнкодером и выбором границы](https://github.com/sad-bkt/computer_vision_course/tree/Lab2/Lab2)
+[Описание задачи и решение c автоэнкодером и выбором границы](https://github.com/sad-bkt/computer_vision_course/tree/Lab2/Lab2)
 
-Решение с архитектурой [MNAD](https://github.com/cvlab-yonsei/MNAD)
-1. Обучить
-2. Визуализировать кластеры скрытого пространства
+[//]: # (Решение с архитектурой [MNAD]&#40;https://github.com/cvlab-yonsei/MNAD&#41;)
+
+[//]: # (1. Обучить)
+
+[//]: # (2. Визуализировать кластеры скрытого пространства)
